@@ -1,5 +1,3 @@
--- Store
-
 Store = class()
 
 function Store:init(x)

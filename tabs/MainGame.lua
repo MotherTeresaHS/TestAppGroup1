@@ -1,3 +1,5 @@
+-- MainGame
+
 MainGame = class()
 
 function MainGame:init(x)
