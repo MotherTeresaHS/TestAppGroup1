@@ -1,3 +1,5 @@
+-- Artwork
+
 Artwork = class()
 
 function Artwork:init(x)
