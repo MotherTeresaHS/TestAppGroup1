@@ -6,6 +6,8 @@
 -- Created for: ICS2O
 -- This is the main starting point.
 
+-- Test commit by Mr.Coxall
+
 -- Use this function to perform your initial setup
 function setup()
     
